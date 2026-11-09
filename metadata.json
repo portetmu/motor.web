@@ -1,0 +1,6 @@
+{
+  "name": "C & A Motorcycle Shop Management System",
+  "description": "Integrated Web-Based Management and Information System for C & A Motorcycle Shop, Baguio City — featuring real-time WebSocket notifications, repair job orders, appointments, inventory, billing, and XAMPP PHP/MySQL package export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
